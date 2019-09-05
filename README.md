@@ -62,7 +62,7 @@ All documentation [here](https://reactjs.org/docs/getting-started.html).
 
 ---
 ---
-
+![Claudio Carvalho Logotype](https://github.com/ccarvofficial/react-tictactoe/blob/master/public/ccarv-logotype.png)<br>
 **@ccarv**official<br>
 [Personal Portfolio](http://claudiocarvalho.dev)
 
