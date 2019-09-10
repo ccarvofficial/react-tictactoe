@@ -4,6 +4,9 @@
 ## About
 A little React.js study in the construction this tic tac toc app following the documentation avaliable in [React.js Website](https://reactjs.org/tutorial/tutorial.html).
 
+## Project Image
+![Project Image - Tic Tac Toe](https://github.com/ccarvofficial/react-tictactoe/blob/master/public/project-image.png)
+
 ## Run the local project
 
 **0:** Install the basics dependencies
